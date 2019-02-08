@@ -1,3 +1,4 @@
+#I worked with Alexa Galuppo on this assignment.
 from microbit import *
 import math
 
