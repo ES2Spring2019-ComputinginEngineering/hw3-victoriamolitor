@@ -1,4 +1,6 @@
-#I worked with Alexa Galuppo on this assignment.
+#Victoria Molitor and Alexa Galuppo worked together on this assignment.
+# Our accelerometer displays arrows in the opposite direction of the tilt of the microbit in order to direct the user on how to level the microbit.
+
 from microbit import *
 import math
 
